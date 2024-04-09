@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm11MWRmemJkZ3B3cm5iZDZiNHltaDM2M2gyZG45cHZ5M2FlOTYxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)](https://ElwinJasonPereira.io)
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)](https://ElwinJasonPereira.io)
 <h1 align="center">Hi 👋, I'm Elwin Jason Pereira</h1>
 <h3 align="center">A passionate frontend and android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif">
