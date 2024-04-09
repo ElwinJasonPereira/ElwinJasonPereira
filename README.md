@@ -1,4 +1,4 @@
-[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2Fs_Nqv1ddETwFTiJlGJBXKGEpBK2-HQz-K3IWmp2aauM.gif%3Fwidth%3D1366%26format%3Dmp4%26s%3Db0f61e520e337955a840227bcb635d4bd542f001)](https://ElwinJasonPereira.io)
+[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm11MWRmemJkZ3B3cm5iZDZiNHltaDM2M2gyZG45cHZ5M2FlOTYxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)](https://ElwinJasonPereira.io)
 <h1 align="center">Hi 👋, I'm Elwin Jason Pereira</h1>
 <h3 align="center">A passionate frontend and android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif">
