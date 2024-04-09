@@ -1,10 +1,8 @@
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)](https://ElwinJasonPereira.io)
 <h1 align="center">Hi 👋, I'm Elwin Jason Pereira</h1>
 <h3 align="center">A passionate frontend and android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif">
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elwinjasonpereira&label=Profile%20views&color=0e75b6&style=flat" alt="elwinjasonpereira" /> </p>
 
 - 🔭 I’m currently working on **an android project**
 
