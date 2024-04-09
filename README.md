@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pereiraelwin25@gmail.com**
 
-- ⚡ Fun fact **I'm like a chameleon - introverted around folks I don't vibe with, but once you crack my trust, I'm all about that extroverted life! 🦎✨**
+- ⚡ Fun Fact: **I'm like a chameleon - introverted around folks I don't vibe with, but once you crack my trust, I'm all about that extroverted life! 🦎✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
