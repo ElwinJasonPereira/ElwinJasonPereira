@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an android project**
 
-- 🌱 I’m currently learning **Kotlin , ReactNative and Reactjs**
+- 🌱 I’m currently learning **Kotlin , Reactjs and ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElwinJasonPereira/My_Projects](https://github.com/ElwinJasonPereira/My_Projects)
 
